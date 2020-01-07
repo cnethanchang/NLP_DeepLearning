@@ -27,7 +27,7 @@ There are some common algorithms that you can use for NLP.  The code contains ex
 
 	6.1 LSTM_for_test_simple
 
-	6.2 LSTM_for_test_simple
+	6.2 LSTM_for_test_complex
 	
 7 Seq2seq
 
@@ -46,5 +46,3 @@ There are some common algorithms that you can use for NLP.  The code contains ex
 	10.1 bert_simple
 
 	10.2 Bert-Chinese-classification-task
-
-```
