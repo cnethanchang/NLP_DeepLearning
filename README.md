@@ -46,3 +46,5 @@ There are some common algorithms that you can use for NLP.  The code contains ex
 	10.1 bert_simple
 
 	10.2 Bert-Chinese-classification-task
+11 NER
+	11.1 bilstm_crf
